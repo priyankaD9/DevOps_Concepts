@@ -6,7 +6,7 @@ This folder contains my **hands-on Linux + Bash automation projects** focused on
 
 ## Projects
 
-| Project | Folder | Highlights |
+| Projects | Folder | Highlights |
 |--------|--------|------------|
 |  Linux System Health & Log Monitoring Tool | `project-1.1-Linux-System-Health-Monitoring/` | CPU/RAM/Disk checks + SSH failed login detection |
 |  Automated Backup & Recovery System | `project-1.2-Automated-Backup-Recovery/` | Backup `/etc` + `/home`, compression, cleanup, restore |
@@ -14,6 +14,10 @@ This folder contains my **hands-on Linux + Bash automation projects** focused on
 ---
 
 ## Tech Stack
-Linux • Bash • Git • tar/gzip • System Logs
+• Linux 
+• Bash 
+• Git 
+• tar/gzip 
+• System Logs
 
 
