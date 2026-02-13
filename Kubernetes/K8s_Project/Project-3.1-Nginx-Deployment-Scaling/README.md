@@ -12,10 +12,6 @@ This project demonstrates deploying and scaling a containerized Nginx applicatio
 1. Enable Kubernetes in Docker Desktop
 2. Apply deployment and service files:
 
-```bash
-kubectl apply -f deployment.yaml
-kubectl apply -f service.yaml
-
 ## Features
 - Nginx app deployment using Kubernetes Deployment
 - Service exposure using NodePort
