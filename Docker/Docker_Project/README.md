@@ -33,7 +33,7 @@ This project demonstrates how to **containerize a Python application** using Doc
 
 ---
 
-### 1Node.js + Redis Application (Docker Compose)
+### Node.js + Redis Application (Docker Compose)
 
  **Project-2-Node-Redis**
 
@@ -104,4 +104,4 @@ This project focuses on **practical Docker usage**, similar to real DevOps workf
 
 
 
-Learning Docker becomes powerful when you build real projects 🚀
+Learning Docker becomes powerful when you build real projects 
