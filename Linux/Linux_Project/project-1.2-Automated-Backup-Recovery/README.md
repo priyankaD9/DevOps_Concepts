@@ -1,6 +1,6 @@
 # Automated Backup & Recovery System 
 
-##Features 
+## Features 
 
  - Backup of /etc and /home 
  - compressed backups 
