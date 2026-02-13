@@ -1,6 +1,6 @@
 # Official Docker References
 
-For learning Docker, official documentation, and best practices, these are the trusted sources:
+### If you want to get better at Docker, containerization, and multi-container apps, these are my go-to official resources:
 
 - **Docker Official Site** – [https://www.docker.com/](https://www.docker.com/)  
   *The official hub for Docker products, updates, and resources.*
